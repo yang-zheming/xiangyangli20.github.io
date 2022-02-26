@@ -12,7 +12,9 @@ redirect_from:
 
 I received the B.E. degree from Wuhan Institute of Technology, Wuhan, China, in 2012, the M.E. degree from Capital Normal University, Beijing, China, in 2015, and the Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China, in 2020. I am currently a postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences.
 
-My research interests include large-scale image classification, vision and language understanding. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=n6WBCgUAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>300+</span></strong></a>.
+My research interests include large-scale image classification, vision and language understanding. I have published more than 10 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=n6WBCgUAAAAJ&hl'>google scholar citations <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> </strong></a>.
+#<span id='total_cit'>300+</span>
+#<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 
 # 🔥 News
