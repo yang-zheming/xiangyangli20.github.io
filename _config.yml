@@ -8,7 +8,7 @@
 #timezone: Asia/Shanghai
 
 # Site Settings
-title                    : "黎向阳<br />XiangyangLi"
+title                    : "XiangyangLi"
 description              : "Postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)."
 repository               : "XiangangLi20/xiangyangli20.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xianyang Li"
+  name             : "黎向阳<br />Xianyang Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Institute of Computing Technology, CAS<br />lixiangyang [at] ict.ac.cn"
   location         : "Beijing, China"
