@@ -5,12 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-timezone: Asia/Shanghai
+#timezone: Asia/Shanghai
 
 # Site Settings
-title                    : "Xiangyang Li"
+title                    : "Lorem ipsum"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "XingyangLi20/xiangyang20.github.io"
+repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
