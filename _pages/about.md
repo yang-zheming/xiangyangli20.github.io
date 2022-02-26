@@ -16,7 +16,7 @@ My research interests include large-scale image classification, vision and langu
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper <i><strong>Dataset Bias in Few-shot Image Recognition</strong></i> has been accepted by IEEE TPAMI!&nbsp;[<a href='https://ieeexplore.ieee.org/document/9720733'>paper</a>]&nbsp;[<a href='http://123.57.42.89/dataset-bias/dataset-bias.html'>project</a>]
+- *2022.02*: &nbsp;🎉🎉 Our paper <i><strong>Dataset Bias in Few-shot Image Recognition</strong></i> has been accepted by <font color="green">IEEE TPAMI</font>!&nbsp;[<a href='https://ieeexplore.ieee.org/document/9720733'>paper</a>]&nbsp;[<a href='http://123.57.42.89/dataset-bias/dataset-bias.html'>project</a>]
 
 
 # 📝 Publications 
