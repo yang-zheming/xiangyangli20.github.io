@@ -9,8 +9,8 @@
 
 # Site Settings
 title                    : "XiangyangLi"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)."
+repository               : "XiangangLi20/xiangyangli20.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xianyang Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Institute of Computing Technology, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
