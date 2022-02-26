@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "黎向阳<br />Xianyang Li"
+  name             : "<p align=center>黎向阳<br />Xianyang Li</p>"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Institute of Computing Technology, CAS<br />lixiangyang [at] ict.ac.cn"
   location         : "Beijing, China"
