@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. In 2012, I was graduated from Wuhan Institute of Technology. And then I obtained the M.E. degree from Capital Normal University, Beijing, China, in 2015, advised by Prof. <a href='https://iec.cnu.edu.cn/szdw/bssds/bssds1/105294.htm'>Zhiping Shi</a>. In 2020, I received the Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. <a href='http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496647.html'>Shuqing Jiang</a>. 
 
-My research interests include large-scale image classification, vision and language understanding. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC of leading conferences in vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
+My research interests include large-scale image classification, vision and language understanding. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC member of leading conferences in vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
 
 
 # 🔥 News
