@@ -16,7 +16,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper <i><strong>Dataset Bias in Few-shot Image Recognition</strong></i> has been accepted by <strong><font color="Blue">IEEE TPAMI</font></strong>!&nbsp;[<a href='https://ieeexplore.ieee.org/document/9720733'>paper</a>]&nbsp;[<a href='http://123.57.42.89/dataset-bias/dataset-bias.html'>project</a>]
+- *2022.02*: &nbsp;🎉🎉 Our paper <i><strong>Dataset Bias in Few-shot Image Recognition</strong></i> has been accepted by <strong><font color="Blue">IEEE TPAMI</font></strong>!&nbsp;[<a href='https://ieeexplore.ieee.org/document/9720733'>Paper</a>]&nbsp;[<a href='http://123.57.42.89/dataset-bias/dataset-bias.html'>Project</a>]
 
 
 # 📝 Publications 
