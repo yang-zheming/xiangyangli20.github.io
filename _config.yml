@@ -9,7 +9,7 @@
 
 # Site Settings
 title                    : "XiangyangLi"
-description              : <text style="text-align:justify;display:inline-block"> Postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). </text>
+description              : "Postdoctoral researcher at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)."
 repository               : "XiangangLi20/xiangyangli20.github.io"
 google_scholar_stats_use_cdn : true
 
